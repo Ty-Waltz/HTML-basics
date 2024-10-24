@@ -1,0 +1,19 @@
+.container {
+    text-align: center;
+    margin-top: 100px;
+    font-family: Arial, sans-serif;
+}
+
+.submit-button {
+    background-color: #2a91b9;
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.submit-button:hover {
+    background-color: #2175a5;
+}
